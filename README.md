@@ -2,7 +2,7 @@
 
 An editable and printable resume template
 
-### A simple Resume editor - visit [link](https://mukundvarmat.github.io/IIT-Resume/)
+### A simple Resume editor - visit [link](https://mukundvarmat.github.io/IITM-Resume/)
 
 ## Instructions
 
